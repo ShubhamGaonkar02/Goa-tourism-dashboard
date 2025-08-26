@@ -23,5 +23,7 @@ Tourism is a key driver of Goa's economy, but understanding visitor trends, spen
 - Download the `.twbx` file and open it in Tableau Desktop.
 - Or view the live version: [Dashboard Link](https://public.tableau.com/views/Book1_17547188877280/Dashboard1)
 
-## Contributors
-- **Shubham Gaonkar** – shubhamgaonkar2005@gmail.com  
+  ## Author & Profiles
+- **Shubham Gaonkar** – shubhamgaonkar2005@gmail.com
+  - [Tableau Profile](https://public.tableau.com/app/profile/shubham.gaonkar)  
+  - [LinkedIn](https://www.linkedin.com/in/shubhamgaonkar2005) 
